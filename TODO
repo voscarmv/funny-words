@@ -1,0 +1,3 @@
+1. Use https://en.wiktionary.org/w/api.php?action=help&modules=query%2Bcategorymembers to find humorous an offensive terms, and maybe some other categories
+2. Scrape them and add them to a database.
+3. Create a search engine capable of combining multiple categories, such as humorous + offensive + obsolete, etc

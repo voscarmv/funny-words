@@ -1,0 +1,25 @@
+{
+  "name": "funny-words",
+  "version": "1.0.0",
+  "description": "Funny word scraper using wiktionary",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/voscarmv/funny-words.git"
+  },
+  "keywords": [
+    "funny",
+    "words",
+    "dictionary",
+    "scraper"
+  ],
+  "author": "Oscar Mier",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/voscarmv/funny-words/issues"
+  },
+  "homepage": "https://github.com/voscarmv/funny-words#readme"
+}
